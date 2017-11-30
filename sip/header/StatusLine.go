@@ -2,7 +2,7 @@ package header
 
 import (
 	"bytes"
-	"gosips/core"
+	"github.com/bonan/gosips/core"
 	"strconv"
 )
 

@@ -1,7 +1,7 @@
 package header
 
 import (
-	"gosips/sip/address"
+	"github.com/bonan/gosips/sip/address"
 )
 
 /** An abstract class for headers that take an address and parameters.

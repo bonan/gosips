@@ -2,7 +2,7 @@ package header
 
 import (
 	"errors"
-	"gosips/core"
+	"github.com/bonan/gosips/core"
 	"strconv"
 	"strings"
 )

@@ -3,7 +3,7 @@ package header
 import (
 	"bytes"
 	"container/list"
-	"gosips/core"
+	"github.com/bonan/gosips/core"
 )
 
 type Lister interface {

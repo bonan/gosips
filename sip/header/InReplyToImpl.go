@@ -1,6 +1,6 @@
 package header
 
-import "gosips/core"
+import "github.com/bonan/gosips/core"
 
 /**
 * InReplyTo SIP Header.

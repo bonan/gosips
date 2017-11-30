@@ -10,7 +10,7 @@ package sip
 
 import (
 	"container/list"
-	"gosips/sip/message"
+	"github.com/bonan/gosips/sip/message"
 )
 
 /**

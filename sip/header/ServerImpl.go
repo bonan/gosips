@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"container/list"
 	"errors"
-	"gosips/core"
+	"github.com/bonan/gosips/core"
 )
 
 /**

@@ -1,6 +1,6 @@
 package header
 
-import "gosips/core"
+import "github.com/bonan/gosips/core"
 
 /**
 * RecordRoute List of SIP headers (a collection of Addresses)

@@ -1,9 +1,9 @@
 package parser
 
 import (
-	"gosips/core"
-	"gosips/sip/address"
-	"gosips/sip/header"
+	"github.com/bonan/gosips/core"
+	"github.com/bonan/gosips/sip/address"
+	"github.com/bonan/gosips/sip/header"
 )
 
 /* To Header parser.*/

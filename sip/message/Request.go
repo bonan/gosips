@@ -1,7 +1,7 @@
 package message
 
 import (
-	"gosips/sip/address"
+	"github.com/bonan/gosips/sip/address"
 )
 
 /**

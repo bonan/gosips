@@ -1,6 +1,6 @@
 package header
 
-import "gosips/core"
+import "github.com/bonan/gosips/core"
 
 /**
 * Challenge part of the Auth header. This is only used by the parser interface

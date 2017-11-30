@@ -3,7 +3,7 @@ package address
 import (
 	"bytes"
 	"container/list"
-	"gosips/core"
+	"github.com/bonan/gosips/core"
 )
 
 /** Telephone number class.

@@ -2,8 +2,8 @@ package parser
 
 import (
 	"errors"
-	"gosips/core"
-	"gosips/sip/header"
+	"github.com/bonan/gosips/core"
+	"github.com/bonan/gosips/sip/header"
 	"strings"
 	"time"
 )

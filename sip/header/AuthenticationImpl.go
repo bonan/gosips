@@ -2,8 +2,8 @@ package header
 
 import (
 	"errors"
-	"gosips/core"
-	"gosips/sip/address"
+	"github.com/bonan/gosips/core"
+	"github.com/bonan/gosips/sip/address"
 	"strconv"
 	"strings"
 )

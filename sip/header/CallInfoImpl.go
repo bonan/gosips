@@ -3,8 +3,8 @@ package header
 import (
 	"bytes"
 	"errors"
-	"gosips/core"
-	"gosips/sip/address"
+	"github.com/bonan/gosips/core"
+	"github.com/bonan/gosips/sip/address"
 )
 
 /**

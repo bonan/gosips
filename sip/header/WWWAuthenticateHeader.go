@@ -1,6 +1,6 @@
 package header
 
-import "gosips/sip/address"
+import "github.com/bonan/gosips/sip/address"
 
 /**
  * This interface represents the WWW-Authenticate response-header. A

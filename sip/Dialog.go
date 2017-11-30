@@ -10,9 +10,9 @@ package sip
 
 import (
 	"container/list"
-	"gosips/sip/address"
-	"gosips/sip/header"
-	"gosips/sip/message"
+	"github.com/bonan/gosips/sip/address"
+	"github.com/bonan/gosips/sip/header"
+	"github.com/bonan/gosips/sip/message"
 )
 
 /**

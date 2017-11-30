@@ -2,8 +2,8 @@ package header
 
 import (
 	"bytes"
-	"gosips/core"
-	"gosips/sip/address"
+	"github.com/bonan/gosips/core"
+	"github.com/bonan/gosips/sip/address"
 )
 
 /** The Request-Route header is added to a request by any proxy that insists on

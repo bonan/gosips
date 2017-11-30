@@ -1,6 +1,6 @@
 package header
 
-import "gosips/core"
+import "github.com/bonan/gosips/core"
 
 /**
 * List of ProxyAuthenticate headers.
